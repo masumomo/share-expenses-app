@@ -48,7 +48,7 @@
     "gql-query-builder": "^3.3.0",
     "graphql": "^15.0.0",
     "moment": "^2.26.0",
-    "next": "^9.4.1",
+    "next": "^11.1.0",
     "next-redux-wrapper": "^6.0.0",
     "nexus-prisma": "^0.12.0",
     "node-fetch": "^2.6.0",
